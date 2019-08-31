@@ -1,0 +1,22 @@
+Read Me:
+This flask site hosts the TensorFlow.js code example
+
+Prereqs:  Python installed; network access for PIP
+
+Mac:
+    source install-it.sh
+    source run-it.sh
+    source remove-it.sh
+
+Windows:
+    install-it.bat
+    run-it.bat
+    remove-it.bat
+
+It occurs to me at that, with all the stuff you have to grade,
+this might be kind of a pain.  Sorry about that.  Do let me know
+if I should stick to the intended format of homework.
+
+Also, I bet you would find some willing deputy assessors among
+the student body.  Should be easy to identify candidates from 
+Slack activity.
